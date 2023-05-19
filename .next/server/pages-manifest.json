@@ -2,7 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/auth/[...auth0]": "pages/api/auth/[...auth0].js",
   "/post/new": "pages/post/new.js",
-  "/post/[postId]": "pages/post/[postId].js"
+  "/api/addTokens": "pages/api/addTokens.js",
+  "/api/getPosts": "pages/api/getPosts.js",
+  "/api/auth/[...auth0]": "pages/api/auth/[...auth0].js",
+  "/token-topup": "pages/token-topup.js"
 }
