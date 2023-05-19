@@ -1,10 +1,18 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/post/new": "pages/post/new.js",
+  "/api/generatePost": "pages/api/generatePost.js",
   "/api/addTokens": "pages/api/addTokens.js",
-  "/api/getPosts": "pages/api/getPosts.js",
   "/api/auth/[...auth0]": "pages/api/auth/[...auth0].js",
-  "/token-topup": "pages/token-topup.js"
+  "/api/getPosts": "pages/api/getPosts.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/_error": "pages/_error.js",
+  "/api/deletePost": "pages/api/deletePost.js",
+  "/api/webhooks/stripe": "pages/api/webhooks/stripe.js",
+  "/token-topup": "pages/token-topup.js",
+  "/success": "pages/success.js",
+  "/post/new": "pages/post/new.js",
+  "/post/[postId]": "pages/post/[postId].js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }
