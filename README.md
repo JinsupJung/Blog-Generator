@@ -1,6 +1,4 @@
-# Blog Standard
 
-[Next JS & Open AI / GPT: Next-generation]
 
 
 # 프로젝트명: 북매칭 (blog-generator)
@@ -8,6 +6,8 @@
 
 토픽과 키워드에 적합한 블로그 컨텐츠를 생성해 줍니다.
 
+
+[Next JS & Open AI / GPT: Next-generation]
 
 
 ![](./blog1.png)
