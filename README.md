@@ -8,6 +8,7 @@
 
 
 [Next JS & Open AI / GPT: Next-generation]
+auth0로 이용자 관리
 
 
 ![](./blog1.png)
