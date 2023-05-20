@@ -7,7 +7,8 @@
 토픽과 키워드에 적합한 블로그 컨텐츠를 생성해 줍니다.
 
 
-[Next JS & Open AI / GPT: Next-generation]
+> [Next JS & Open AI / GPT: Next-generation]   
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
